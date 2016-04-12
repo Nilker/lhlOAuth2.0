@@ -1,0 +1,4 @@
+E:\win7\Desktop\MyOAuth2\MyOAuth.Consts\bin\Debug\MyOAuth.Consts.dll
+E:\win7\Desktop\MyOAuth2\MyOAuth.Consts\bin\Debug\MyOAuth.Consts.pdb
+E:\win7\Desktop\MyOAuth2\MyOAuth.Consts\obj\Debug\MyOAuth.Consts.dll
+E:\win7\Desktop\MyOAuth2\MyOAuth.Consts\obj\Debug\MyOAuth.Consts.pdb

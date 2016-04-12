@@ -1,0 +1,10 @@
+E:\win7\Desktop\MyOAuth2\MyOAuth2.Consts\bin\Release\MyOAuth2.Consts.dll
+E:\win7\Desktop\MyOAuth2\MyOAuth2.Consts\bin\Release\MyOAuth2.Consts.pdb
+E:\win7\Desktop\MyOAuth2\MyOAuth2.Consts\obj\Release\MyOAuth2.Consts.csprojResolveAssemblyReference.cache
+E:\win7\Desktop\MyOAuth2\MyOAuth2.Consts\obj\Release\MyOAuth2.Consts.dll
+E:\win7\Desktop\MyOAuth2\MyOAuth2.Consts\obj\Release\MyOAuth2.Consts.pdb
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\MyOAuth2.Consts\bin\Release\MyOAuth2.Consts.dll
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\MyOAuth2.Consts\bin\Release\MyOAuth2.Consts.pdb
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\MyOAuth2.Consts\obj\Release\MyOAuth2.Consts.csprojResolveAssemblyReference.cache
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\MyOAuth2.Consts\obj\Release\MyOAuth2.Consts.dll
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\MyOAuth2.Consts\obj\Release\MyOAuth2.Consts.pdb

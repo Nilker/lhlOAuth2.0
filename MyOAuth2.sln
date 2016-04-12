@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOAuth2.Server", "MyOAuth2.Server\MyOAuth2.Server.csproj", "{F52B29DB-07E0-47B0-8D8C-401F41F324C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOAuth2.Resource", "MyOAuth2.Resource\MyOAuth2.Resource.csproj", "{58242239-FF05-4B83-989B-AC86A67DC911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOAuth2.Consts", "MyOAuth2.Consts\MyOAuth2.Consts.csproj", "{AD8FFF41-211B-4DDF-B86D-C4B8039DE83E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOAuth2.Client", "MyOAuth2.Client\MyOAuth2.Client.csproj", "{D348CFF2-EAE4-4691-A6DD-EA1E07779B43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Owin.Security.Lhl", "Owin.Security.Lhl\Owin.Security.Lhl.csproj", "{02D6D0E3-286C-4DC7-B3E8-CD68CD33884B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F52B29DB-07E0-47B0-8D8C-401F41F324C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52B29DB-07E0-47B0-8D8C-401F41F324C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52B29DB-07E0-47B0-8D8C-401F41F324C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52B29DB-07E0-47B0-8D8C-401F41F324C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58242239-FF05-4B83-989B-AC86A67DC911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58242239-FF05-4B83-989B-AC86A67DC911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58242239-FF05-4B83-989B-AC86A67DC911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58242239-FF05-4B83-989B-AC86A67DC911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD8FFF41-211B-4DDF-B86D-C4B8039DE83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD8FFF41-211B-4DDF-B86D-C4B8039DE83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD8FFF41-211B-4DDF-B86D-C4B8039DE83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD8FFF41-211B-4DDF-B86D-C4B8039DE83E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D348CFF2-EAE4-4691-A6DD-EA1E07779B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D348CFF2-EAE4-4691-A6DD-EA1E07779B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D348CFF2-EAE4-4691-A6DD-EA1E07779B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D348CFF2-EAE4-4691-A6DD-EA1E07779B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02D6D0E3-286C-4DC7-B3E8-CD68CD33884B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D6D0E3-286C-4DC7-B3E8-CD68CD33884B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D6D0E3-286C-4DC7-B3E8-CD68CD33884B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D6D0E3-286C-4DC7-B3E8-CD68CD33884B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

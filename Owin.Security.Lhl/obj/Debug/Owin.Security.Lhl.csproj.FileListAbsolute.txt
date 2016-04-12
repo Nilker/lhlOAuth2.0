@@ -1,0 +1,16 @@
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\Owin.Security.Lhl\obj\Debug\Owin.Security.Lhl.csprojResolveAssemblyReference.cache
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\Owin.Security.Lhl\bin\Debug\Owin.Security.Lhl.dll
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\Owin.Security.Lhl\bin\Debug\Owin.Security.Lhl.pdb
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\Owin.Security.Lhl\bin\Debug\Microsoft.Owin.dll
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\Owin.Security.Lhl\bin\Debug\Microsoft.Owin.Security.dll
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\Owin.Security.Lhl\bin\Debug\MyOAuth2.Consts.dll
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\Owin.Security.Lhl\bin\Debug\Newtonsoft.Json.dll
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\Owin.Security.Lhl\bin\Debug\Owin.dll
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\Owin.Security.Lhl\bin\Debug\MyOAuth2.Consts.pdb
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\Owin.Security.Lhl\bin\Debug\Microsoft.Owin.xml
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\Owin.Security.Lhl\bin\Debug\Microsoft.Owin.Security.xml
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\Owin.Security.Lhl\bin\Debug\Newtonsoft.Json.xml
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\Owin.Security.Lhl\bin\Debug\zh-Hans\Microsoft.Owin.resources.dll
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\Owin.Security.Lhl\bin\Debug\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\Owin.Security.Lhl\obj\Debug\Owin.Security.Lhl.dll
+E:\win7\Desktop\MyOAuth2---中间件模拟成功\Owin.Security.Lhl\obj\Debug\Owin.Security.Lhl.pdb
